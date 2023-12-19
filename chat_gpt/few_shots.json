@@ -1,0 +1,101 @@
+[
+  {
+    "input": "Your Contact Information : 5435 Morse Rd Columbus OH 43230-3091, ",
+    "output": {
+      "address": "5435 Morse Rd",
+      "city": "Columbus",
+      "state": "Ohio",
+      "zip-code": "43230-3091"
+    }
+  },
+  {
+    "input": "Your Contact Information : 2209 Dianthus Ct Tracy CA 95391-4096, ",
+    "output": {
+      "address": "2209 Dianthus Ct",
+      "city": "Tracy",
+      "state": "California",
+      "zip-code": "43230-3091"
+    }
+  },
+  {
+    "input": "Your Contact Information : 3440 John Hinkle Pl Bloomington IN 47408-3096, ",
+    "output": {
+      "address": "3440 John Hinkle Pl",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "zip-code": "47408-3096"
+    }
+  },
+  {
+    "input": "Make check payable to : COLUMBIA GAS PO BOX 4629 CAROL STREAM IL 60197-4529 MaltMuhl ",
+    "output": {
+      "address": "PO BOX 4629",
+      "city": "CAROL STREAM",
+      "state": "Illinois",
+      "zip-code": "60197-4529"
+    }
+  },
+  {
+    "input": "Termination Notice Your account is past - due . To avoid disconnection of service at 341 Lear Rd , Avon Lake Oh 44012-2937 scheduled on or after March 7 , 2023 , you must pay $ 2,185.13 in full . off unless Please be aware that partial payments will not protect you from shut - , you arrange a payment To discuss eligibility of plan call plan with us in a advance . payment , 1-800-344-4077 , or visit ColumbiaGasOhio.com . ",
+    "output": {
+      "address": "341 Lear Rd",
+      "city": "Avon Lake",
+      "state": "Ohio",
+      "zip-code": "44012-2937"
+    }
+  },
+  {
+    "input": "Town of Southwick 454 College Hwy MA 01077 Southwick , ",
+    "output": {
+      "address": "454 College Hwy",
+      "city": "Southwick",
+      "state": "Massachusetts",
+      "zip-code": "01077"
+    }
+  },
+  {
+    "input": "1361 SP 0.530 T001 * 1 * P00 M08 ************** SINGLE - PIECE DEVONSHIRE RETIREMENT VILLAGE LLC STE 200 3106 KRAFT AVE SE GRAND RAPIDS MI 49512-2065 / | ol | fllaghlapus Turkklppkallale shef ], ",
+    "output": {
+      "address": "3106 KRAFT AVE",
+      "city": "SE GRAND RAPIDS",
+      "state": "Michigan",
+      "zip-code": "49512-2065"
+    }
+  },
+  {
+    "input": "Rd 5435 Morse Columbus OH 43230-3091, ",
+    "output": {
+      "address": "5435 Morse Rd",
+      "city": "Columbus",
+      "state": "Ohio",
+      "zip-code": "43230-3091"
+    }
+  },
+  {
+    "input": "Rd 5435 Morse Columbus OH 43230-3091, ",
+    "output": {
+      "address": "Morse 5435 Rd",
+      "city": "Columbus",
+      "state": "Ohio",
+      "zip-code": "45230-3091"
+    }
+  },
+  {
+    "input": "Address in the file is : 136 1 SP 0.530T001 * 1 * P00 * M08 ************** SINGLE - PIECE DEVONSHIRE RETIREMENT VILLAGE LLC STE 200 3196 KRAFT AVE SE GRAND RAPIDS MI 49512-2065 T\u00b6MuralMrhildc | 4p | [ / 4 / qlding |, ",
+    "output": {
+      "address": "3196 KRAFT AVE",
+      "city": "SE GRAND RAPIDS",
+      "state": "Michigan",
+      "zip-code": "49512-2065"
+    }
+  },
+  {
+    "input": "Address in the file is : 42516 1 AV 0.423T156 2 P00 * * M09 ******* AUTO ** 5 - CASCADE DIGIT TRAILS ASSISTED 4954 LIVING 1225 SPAULDING AVE SE GRAND RAPIDS MI 49546-6304 |||||||||||||||||||||, ",
+    "output": {
+      "address": "1225 SPAULDING AVE",
+      "city": "SE GRAND RAPIDS",
+      "state": "Michigan",
+      "zip-code": "49546-6304"
+    }
+  }
+]
